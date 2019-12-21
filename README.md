@@ -2,7 +2,7 @@
 マインスイーパが遊べます．自作のソルバーもついてます．
 
 <div align="center">
-<img src="https://github.com/snaka0213/MineSweeper/blob/master/image/image1.png" width="100x100">
+<img src="https://github.com/snaka0213/MineSweeper/blob/master/image/image1.png" width="500x500">
 </div>
 
 ## ソルバーの性能
